@@ -10,10 +10,6 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
-        maven {
-            url "https://soft.surfin-cloud.com/repository/maven-public/"
-        }
-
     }
 }
 rootProject.name = "TestApp"
